@@ -1,0 +1,11 @@
+gradio==4.44.0
+groq==0.11.0
+PyMuPDF==1.25.1
+langchain==0.2.16
+langchain-text-splitters==0.2.4
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+numpy==1.26.4
+torch==2.3.1
+transformers==4.44.0
+python-dotenv==1.0.0
